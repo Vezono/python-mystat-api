@@ -1,3 +1,4 @@
+[![downloads](https://img.shields.io/pypi/dm/openMystatAPI.svg)](https://pypistats.org/packages/openMystatAPI)
 # python-mystat-api
 Unofficial, but open API realisation on python of mystat.itstep.org, a site for students of ITSTEP.
 
